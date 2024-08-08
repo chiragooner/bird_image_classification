@@ -263,6 +263,6 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 ```
 
 The metrics mentioned above are plotted in a graph as follows after training the model to 10 epochs:
-![Performance Metrics](https://github.com/chiragooner/bird_image_classification/blob/master/result.png?raw=true)
+![Performance Metrics](https://github.com/chiragooner/bird_image_classification/blob/main/result.png?raw=true)
 
 
