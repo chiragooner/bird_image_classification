@@ -10,7 +10,6 @@ This repository contains the implementation of an image classification model usi
 - [Model Architecture](#model-architecture)
 - [Training Pipeline](#training-pipeline)
 - [Accuracy and Loss Calculation](#accuracy-and-loss-calculation)
-- [Saving the Model](#saving-the-model)
 
 ## Data Preparation
 
