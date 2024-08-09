@@ -262,7 +262,7 @@ Accuracy and loss are calculated using the scikit-learn library imported as,
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, roc_auc_score, log_loss
 ```
 
-The metrics mentioned above are plotted in a graph as follows after training the model to 10 epochs:
+The metrics mentioned above are plotted in a graph as follows after training:
 ![Performance Metrics](https://github.com/chiragooner/bird_image_classification/blob/main/result.jpg?raw=true)
 
 
